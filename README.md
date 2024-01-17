@@ -11,8 +11,6 @@
 
 ---
 
-<details>
-<summary> ℹ️ About me</summary>
 
 - 🔭 I’m currently working on [spoo.me](https://github.com/spoo-me)
 
@@ -24,31 +22,26 @@
 
 - 📫 How to reach me <admin@spoo.me>
 
-</details>
 
 ---
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/90309290?v=5" alt="Zingzy Profile Image" />
-
 ###
 
-<div align="left">
-<image src="https://skillicons.dev/icons?i=py,js,html,css,java,bash,cloudflare,flask,git,githubactions,bots,md,mongodb,vercel,docker,replit,vscode&perline=10" style="max-width: 500px;"></image>
-</div>
+<image src="https://skillicons.dev/icons?i=py,js,html,css,java,bash,cloudflare,flask,git,githubactions,bots,md,mongodb,vercel,docker,replit,vscode"></image>
 
 ### Connect wih me:
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://instagram.com/spoo.me" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
+  <a href="https://discord.gg/6UQa6FffqU" target="blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://twitter.com/spoo_me" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/zingzy/zingzy/output/snake.svg" alt="Snake animation" />
 
----
+<br>
 
 <details>
 <summary>📊 Additional Stats</summary>
@@ -66,7 +59,6 @@
 ---
 
 </details>
-
 
 <details>
 
