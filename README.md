@@ -11,7 +11,8 @@
 
 ---
 
-#### About me
+<details>
+<summary> ℹ️ About me</summary>
 
 - 🔭 I’m currently working on [spoo.me](https://github.com/spoo-me)
 
@@ -22,6 +23,8 @@
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Zingzy?tab=repositories)
 
 - 📫 How to reach me <admin@spoo.me>
+
+</details>
 
 ---
 
@@ -86,19 +89,27 @@
 
 ###
 
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/zingzy/zingzy/output/snake.svg" alt="Snake animation" />
 
+---
+
+<details>
+<summary>📊 Additional Stats</summary>
+
 <br clear="both">
+
+<h2 align="center">🏆 Github Trophies</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zingzy&theme=radical&no-frame=false&no-bg=true&margin-w=5" alt="zingzy" /></a> </p>
 
+<h2 align="center">📈 Contributions Graph</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=zingzy&theme=high-contrast&hide_border=true&area_color=565167&area=true" style="border-radius: 10px">
 
 ---
+
+</details>
+
 
 <details>
 
@@ -122,3 +133,5 @@
 </div>
 
 </details>
+
+---
