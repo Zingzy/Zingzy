@@ -27,7 +27,7 @@
 
 ###
 
-<image src="https://skillicons.dev/icons?i=py,js,html,css,java,bash,cloudflare,flask,git,githubactions,bots,md,mongodb,vercel,docker,replit,vscode"></image>
+<image src="https://skillicons.dev/icons?i=py,js,html,css,java,bash,cloudflare,flask,git,githubactions,bots,md,mongodb,vercel,docker,replit,vscode,fastapi"></image>
 
 ### Connect wih me:
 
