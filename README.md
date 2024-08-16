@@ -70,12 +70,12 @@
 
 <table>
   <tr>
-    <td align="center">😂 Random Dev Meme</td>
+    <td align="center">🐙 Octo Ring</td>
     <td align="center">✍️ Random Dev Quote</td>
   </tr>
 
   <tr>
-    <td><img src='https://randommeme-five.vercel.app/' style="max-height: 300px; max-width: 300px;"/></td>
+    <td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Zingzy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Zingzy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Zingzy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td>
     <td><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" style="height: 300px;"></td>
   </tr>
 </table>
