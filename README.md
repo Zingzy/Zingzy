@@ -14,11 +14,7 @@
 
 - 🔭 I’m currently working on [spoo.me](https://github.com/spoo-me)
 
-- 👯 I’m looking to collaborate on [spoo.me URL shortener](https://github.com/spoo-me/url-shortener)
-
-- 🌱 I’m currently learning **Docker, FastAPI**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Zingzy?tab=repositories)
+- 🌱 I’m currently learning **Prometheus, GraphQL**
 
 - 📫 How to reach me <admin@spoo.me>
 
@@ -27,7 +23,7 @@
 
 ###
 
-<image src="https://skillicons.dev/icons?i=py,js,html,css,java,bash,cloudflare,flask,git,githubactions,bots,md,mongodb,vercel,docker,replit,vscode,fastapi"></image>
+<image src="https://skillicons.dev/icons?i=py,js,ts,go,java,fastapi,flask,django,mongodb,postgres,mysql,redis,rabbitmq,kafka,docker,kubernetes,selenium,nodejs,tailwind,vite,react,aws,azure,cloudflare,git,githubactions"></image>
 
 ### Connect wih me:
 
