@@ -19,9 +19,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://spoo-landing.vercel.app/logo.png">
   <source media="(prefers-color-scheme: light)" srcset="https://spoo-landing.vercel.app/logo-black.png">
-  <img align="right" alt="Logo" src="https://spoo-landing.vercel.app/logo.png" width=100>
+  <a href="https://spoo.me" target="blank">
+    <img align="right" alt="Logo" src="https://spoo-landing.vercel.app/logo.png" width=100>
+  </a>
 </picture>
-
 
 - 🔭 I’m currently working on [spoo.me](https://github.com/spoo-me)
 - 🌱 I’m currently learning **Prometheus, GraphQL**
@@ -69,7 +70,7 @@
   <a href="https://instagram.com/h1r19y" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" height="25" alt="instagram logo"/></a>
   <a href="https://discord.gg/6UQa6FffqU" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" height="25" alt="discord logo"  /></a>
   <a href="https://twitter.com/zingzy3" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" height="25" alt="twitter logo"  /></a>
-  <a href="htthttps://leetcode.com/u/Zingzy/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg" height="25" alt="leetcode logo"  /></a>
+  <a href="https://leetcode.com/u/Zingzy/" target="blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg" height="25" alt="leetcode logo"  /></a>
 </p>
 
 
