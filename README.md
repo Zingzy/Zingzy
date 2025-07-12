@@ -30,7 +30,7 @@
 
 <h6>Featured Projects</h6>
 
-- 🔗 [spoo.me](https://github.com/spoo-me/url-shortener): Privacy-first URL shortener with analytics. `1M+` links shortened, `20M+` clicks tracked. 🛰️
+- 🔗 [spoo.me](https://github.com/spoo-me/url-shortener): Open-Sourced URL shortener with analytics. `1M+` links shortened, `20M+` clicks tracked. 🛰️
 - 💻 [hPyT](https://github.com/zingzy/hPyT): Python toolkit for manipulating Windows GUI/title bars. `100+` stars.
 - 🤖 [Pollinations Bot](https://github.com/zingzy/pollinations.ai-bot): AI image generator used in `1k+` Discord servers. Powered by Pollinations API.
 
