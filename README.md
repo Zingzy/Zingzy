@@ -17,10 +17,10 @@
 <h6>About Me</h6>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spoo-landing.vercel.app/logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://spoo-landing.vercel.app/logo-black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/00200990-d7e6-42f4-821d-0e18f5f84ae7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3c8d8e5d-a4c5-4f4d-baa3-5c40e4175cee">
   <a href="https://spoo.me" target="blank">
-    <img align="right" alt="Logo" src="https://spoo-landing.vercel.app/logo.png" width=100>
+    <img align="right" alt="Logo" src="https://github.com/user-attachments/assets/00200990-d7e6-42f4-821d-0e18f5f84ae7" width=100>
   </a>
 </picture>
 
@@ -30,7 +30,7 @@
 
 <h6>Featured Projects</h6>
 
-- 🔗 [spoo.me](https://github.com/spoo-me/url-shortener): Open-Sourced URL shortener with analytics. `1M+` links shortened, `20M+` clicks tracked. 🛰️
+- 🔗 [spoo.me](https://github.com/spoo-me/url-shortener): Open-Sourced URL shortener with analytics. `1M+` links shortened, `30M+` clicks tracked. 🛰️
 - 💻 [hPyT](https://github.com/zingzy/hPyT): Python toolkit for manipulating Windows GUI/title bars. `100+` stars.
 - 🤖 [Pollinations Bot](https://github.com/zingzy/pollinations.ai-bot): AI image generator used in `1k+` Discord servers. Powered by Pollinations API.
 
@@ -61,7 +61,7 @@
 <h6 align="center">DevOps, Cloud & Tools</h6>
 
 <p align="center">
-  <image src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,cloudflare,git,githubactions,selenium,bots"></image>
+  <image src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,cloudflare,git,jenkins,githubactions,selenium,bots"></image>
 </p>
 
 <h6 align="center">Connect With Me</h6>
