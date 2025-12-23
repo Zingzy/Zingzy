@@ -8,8 +8,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zingzy&show_icons=true&disable_animations=false&theme=transparent&hide_border=false" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=zingzy&theme=transparent&hide_border=false" height="130" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zingzy&show_icons=true&disable_animations=false&theme=transparent&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=zingzy&theme=transparent&hide_border=false" height="130" alt="GitHub Streak" />
 </div>
 
 <br>
