@@ -22,6 +22,7 @@ Building infrastructure for coding agents. Previously on the deployment team at 
 - **[code-review-agent](https://github.com/Zingzy/code-review-agent)** - Reviews GitHub pull requests with LangGraph, with background analysis through Celery and a FastAPI API for submitting reviews and reading results
 - **[hPyT](https://github.com/zingzy/hPyT)** - Windows title bar and frame control from Python, by reverse-engineering DWM across every Windows version since Vista (140+ stars)
 - **[Pollinations bot](https://github.com/pollinations/polli-image-bot)** - The official Discord bot for pollinations.ai, built in 2022 and handed to their team in 2025 (1.5K+ servers)
+- **[discord-bot-animator](https://github.com/Zingzy/discord-bot-animator)** - A small Node.js tool for setting animated avatars and banners on Discord bots using discord.js
 - **[diskbloom](https://github.com/zingzy/diskbloom)** - A pastel treemap TUI that shows what is eating your disk, on Homebrew
 - **[qr-grabber](https://github.com/zingzy/qr-grabber)** - Decode any QR code on screen straight to the clipboard
 - **[fluent-2048](https://github.com/zingzy/fluent-2048)** - 2048 in the Windows 11 Fluent design language
